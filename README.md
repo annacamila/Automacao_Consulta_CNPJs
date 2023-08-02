@@ -1,1 +1,2 @@
 # Automacao_Consulta_CNPJs
+Automatizando a consulta da emissão do Comprovante de Inscrição e de Situação Cadastral de Pessoa Jurídica pelo site da Receita, apenas para fins de aprimorar meu aprendizado e habilidade com a linguaguem Python e com o ramo de RPA.
